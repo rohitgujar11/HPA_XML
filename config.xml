@@ -12,4 +12,10 @@
     <rstart>50001</rstart>
     <rend>50100</rend>
   </imeicode>
+  <imeicode imei="911524854084420">
+    <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/911524854084420.xml</url>
+    <version>1</version>
+    <rstart>50101</rstart>
+    <rend>50200</rend>
+  </imeicode>
 </devices>
